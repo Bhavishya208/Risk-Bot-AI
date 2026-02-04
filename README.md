@@ -25,11 +25,6 @@ The project demonstrates **AI-assisted decision support**, **responsible analyti
 
 ---
 
-## 🖼 Dashboard Preview
-<img src="screenshots/dashboard.png" width="100%" />
-
----
-
 ## 🛠 Tech Stack
 - **Python**
 - **Pandas & NumPy**
