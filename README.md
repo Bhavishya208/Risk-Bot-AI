@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="screenshots/dashboard.png" width="90%" />
+<img src="dashboard.png" alt="RiskBot AI Dashboard" width="100%" />
+
 
 # 📊 **RiskBot AI**
 ### *AI‑Driven Financial Risk & Market Insight Platform*
